@@ -8,23 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am also an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
+Under construction
 
-I earned my Ph.D in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu).
-My academic work has been [published](publications) or is forthcoming in
-*International Studies Quarterly*, *Conflict Management and Peace Science*,
-*Political Science Research and Methods*, and *PS: Political Science & Politics*,
-among other outlets. This [research](research) explores the causes and
-consequences of political violence using a broad variety of methods such as
-latent variable models, geospatial analysis, and big data. While primarily
-focused on civil conflict, it also examines contentious political phenomena
-including terrorism and economic statecraft, and develops new measures of
-institutions in international relations. I have [teaching](teaching) experience
-in both quantitative methodology and international relations, and am a certified
-instructor with [The Carpentries](https://carpentries.org).
+Welcome! I am an evolutionary biologist interested in marine invertebrates, especially jellyfish, and my research is focused on applying traditional morphological analyses, ecological experiments and omics tools to understand morphological variation and speciation, as well as biogeographic and macroevolutionary trends. More broadly, my experience with research and education in biology ranges from studies in ecological succession and invasive species to systematics/taxonomy and biogeography. 
+
+I am currently a PhD Candidate at Griffith University (expected completion - March, 2023). I earned my MSc in Zoology from the University of São Paulo (Brazil) and my BSc in Biological Sciences from the Federal University of Santa Catarina.
+
+
