@@ -1,6 +1,8 @@
 ---
 permalink: /
 author_profile: true
+header:
+  og_image: "research/site-banner.png"
 redirect_from: 
   - /about/
   - /about.html
