@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Under construction
+SYSTEMATICS TAXONOMY BIOGEOGRAPHY OMICS
 
-Welcome! I am an evolutionary biologist interested in marine invertebrates, especially jellyfish, and my research is focused on applying traditional morphological analyses, ecological experiments and omics tools to understand morphological variation and speciation, as well as biogeographic and macroevolutionary trends. More broadly, my experience with research and education in biology ranges from studies in ecological succession and invasive species to systematics/taxonomy and biogeography. 
+Welcome! I am an evolutionary biologist interested in marine invertebrates, especially jellyfish. My [research](https://lawleyjw.github.io/research/) is focused on applying omics tools, morphological analyses and ecological experiments to understand morphological variation and speciation, as well as biogeographic and macroevolutionary trends. My experience also involves teaching and outreach in courses, workshops, seminars and conferences, reviewing and editing academic texts, as well as programming and [bioinformatics](https://lawleyjw.github.io/bioinformatics/).
 
-I am currently a PhD Candidate at Griffith University (expected completion - March, 2023). I earned my MSc in Zoology from the University of São Paulo (Brazil) and my BSc in Biological Sciences from the Federal University of Santa Catarina.
+I am currently a PhD Candidate at Griffith University (thesis submission - March, 2023). I earned my MSc in Zoology from the University of São Paulo (Brazil) and my BSc in Biological Sciences from the Federal University of Santa Catarina (Brazil).
+
 
 
