@@ -1,18 +1,15 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-    
   - title: "Research"
     url: /research/
+    
+  - title: "Publications"
+    url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/
-
-  - title: "Software"
+  - title: "Bioinformatics"
     url: /software/
 
-  - title: "Posts"
+  - title: "Blog"
     url: /posts/
     
   - title: "CV"
