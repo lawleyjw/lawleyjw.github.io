@@ -3,8 +3,6 @@ layout: archive
 permalink: /posts/
 title: "Blog posts"
 author_profile: true
-header:
-  og_image: "posts/spatial-sql/gadm_wkt_filter_buffer-1.png"
 ---
 
 {% include base_path %}
