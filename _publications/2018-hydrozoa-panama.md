@@ -1,7 +1,6 @@
 ---
 title: "An integrative identification guide to the Hydrozoa (Cnidaria) of Bocas del Toro, Panama"
 collection: publications
-permalink: /publication/2018-hydrozoa-panama
 date: 2018-07-29
 venue: 'Neotropical Biodiversity'
 paperurl: '/files/pdf/research/Miglietta2018.pdf'
