@@ -1,6 +1,5 @@
 ---
 title: 'Beginners guide to Gowonda HPC'
-date: 2022-08-19
 collection: bioinformatics
 permalink: /bioinformatics/beginners-guide-gowonda/
 excerpt: 'A quickstart for bioinformatic analysis in the Griffith University High Performance Computing (HPC) Cluster (Gowonda)'
