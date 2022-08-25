@@ -188,6 +188,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  bioinformatics:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -223,6 +226,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _bioinformatics
+  - scope:
+      path: ""
+      type: bioinformatics
     values:
       layout: single
       author_profile: true
