@@ -1,6 +1,5 @@
 ---
 title: 'CEL-Seq workflow'
-date: 2022-08-20
 collection: bioinformatics
 permalink: /bioinformatics/cel-seq/
 excerpt: 'Workflow for bioinformatic analysis of CEL-Seq data in the Griffith University High Performance Computing (HPC) Cluster (Gowonda)'
@@ -13,7 +12,7 @@ Based on the workflow from Carmel McDougall, with modifications by Tessa M. Page
 
 *Last updated:* 20 August 2022
 
-If you are using this workflow for your research, please cite the page https://lawleyjw.com/bioinfomatics
+If you are using this workflow for your research, please cite the page [https://lawleyjw.com/bioinfomatics](https://lawleyjw.com/bioinfomatics)
 
 *License:* [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
@@ -41,7 +40,7 @@ source activate labmcdougall
 bcl2fastq -r 4 -w 4 -p 14 --runfolder-dir ~/scratch/celseq_raw/your_folder_with_seq_data/ --output-dir ~/scratch/celseq_raw/fastq --minimum-trimmed-read-length 15 
 ```
 
-
+*Under construction*
 
 
 
