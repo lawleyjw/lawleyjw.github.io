@@ -8,7 +8,7 @@ author_profile: true
 Under construction
 
 <nbsp>
-
+<p align="center">
 {% include base_path %}
 
 {% assign ordered_pages = site.research | sort:"order_number" %}
@@ -16,4 +16,4 @@ Under construction
 {% for post in ordered_pages %}
   {% include archive-single.html type="grid" %}
 {% endfor %}
-
+</p>
