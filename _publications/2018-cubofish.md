@@ -1,7 +1,6 @@
 ---
 title: "First record of association between <i>Tamoya haplonema</i> (Cnidaria: Cubozoa) and stromateid fish, with a review on interactions between fish and cubozoan jellyfishes"
 collection: publications
-permalink: /publication/2018-cubofish
 date: 2018-02-28
 venue: 'Plankton and Benthos Research'
 paperurl: '/files/pdf/research/Lawley2018-1.pdf'
