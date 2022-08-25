@@ -1,7 +1,13 @@
-# Beginners guide to Gowonda HPC
+---
+title: 'Beginners guide to Gowonda HPC'
+date: 2022-08-19
+permalink: /bioinformatics/beginners-guide-Gowonda/
+excerpt_separator: <!--more-->
+toc: true
+---
 
 ### A quickstart for bioinformatic analysis in the Griffith University High Performance Computing (HPC) Cluster (Gowonda)
-
+<!--more-->
 *Created by:* Jonathan W. Lawley
 
 *Last updated:* 19 August 2022
