@@ -1,10 +1,12 @@
 ---
 title: "Bioinformatics"
 permalink: /bioinformatics/
+layout: archive
+author_profile: true
 ---
 
-Under construction
+{% include base_path %}
 
-[Begginners guide to Gowonda HPC](https://lawleyjw.github.io/bioinformatics/beginners-guide-Gowonda/)
-
-[CEL-Seq workflow](https://lawleyjw.github.io/bioinformatics/cel-seq/)
+{% for post in site.bioinformatics reversed %}
+  {% include archive-single.html %}
+{% endfor %}
