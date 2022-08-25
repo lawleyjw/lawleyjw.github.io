@@ -3,18 +3,13 @@ title: 'Beginners guide to Gowonda HPC'
 date: 2022-08-19
 collection: bioinformatics
 permalink: /bioinformatics/beginners-guide-gowonda/
-excerpt_separator: <!--more-->
+excerpt: 'A quickstart for bioinformatic analysis in the Griffith University High Performance Computing (HPC) Cluster (Gowonda)'
 toc: true
 ---
 
-### A quickstart for bioinformatic analysis in the Griffith University High Performance Computing (HPC) Cluster (Gowonda)
-<!--more-->
-*Created by:* Jonathan W. Lawley
+## A quickstart for bioinformatic analysis in the Griffith University High Performance Computing (HPC) Cluster (Gowonda)
 
 *Last updated:* 19 August 2022
-
-*For questions or issues:*
-jonathan.wanderleylawley@griffithuni.edu.au
 
 If you are using this workflow for your research, please cite the GitHub repository https://github.com/lawleyjw/bioinfomatics-workflows
 
@@ -167,4 +162,4 @@ Follow through with the installation and you are ready to run the new package!
 
 Just modify the example scheduler script in section 4, it is already calling on the *labmcdougall* conda environment to run FastQC.
 
-### For more information check out the [Griffith HPC Cluster Documentation](https://griffith.atlassian.net/wiki/spaces/GHCD/overview?homepageId=4030474), especially the [FAQ section](https://griffith.atlassian.net/wiki/spaces/GHCD/pages/4030751/FAQ+-+Griffith+HPC+Cluster).
+**For more information check out the [Griffith HPC Cluster Documentation](https://griffith.atlassian.net/wiki/spaces/GHCD/overview?homepageId=4030474), especially the [FAQ section](https://griffith.atlassian.net/wiki/spaces/GHCD/pages/4030751/FAQ+-+Griffith+HPC+Cluster).**
