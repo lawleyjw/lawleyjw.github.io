@@ -1,7 +1,8 @@
 ---
 title: 'CEL-Seq workflow'
+collection: publications
 date: 2022-08-20
-permalink: /bioinformatics/2022-08-20-cel-seq/
+permalink: /bioinformatics/cel-seq/
 excerpt_separator: <!--more-->
 toc: true
 ---
