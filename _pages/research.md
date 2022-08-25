@@ -9,7 +9,6 @@ Under construction
 
 <nbsp>
   
-<p align="center">
 {% include base_path %}
 
 
@@ -19,4 +18,3 @@ Under construction
 {% for post in ordered_pages %}
   {% include archive-single.html type="grid" %}
 {% endfor %}
-</p>
