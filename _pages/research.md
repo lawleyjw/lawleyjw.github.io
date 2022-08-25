@@ -7,14 +7,7 @@ author_profile: true
 
 Under construction
 
-<nbsp>
-  
-{% include base_path %}
 
-
-{% assign ordered_pages = site.research | sort:"order_number" %}
-
-
-{% for post in ordered_pages %}
-  {% include archive-single.html type="grid" %}
-{% endfor %}
+| [Systematics and Taxonomy](https://lawleyjw.github.io/research/systematics-taxonomy/) | [Omics](https://lawleyjw.github.io/research/omics/) | [Biogeography](https://lawleyjw.github.io/research/biogeography/) |
+| - | - | - | 
+| ![](/images/research/systematics.png) | ![](/images/research/omics.png) | ![](/images/research/biogeography.png) | 
