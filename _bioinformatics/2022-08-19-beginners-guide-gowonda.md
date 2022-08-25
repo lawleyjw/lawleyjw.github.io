@@ -42,12 +42,12 @@ Open the UNIX shell we just talked about (if you are logged into Gowonda, log ou
 
 This will transfer the file into your home directory in Gowonda (the `~/` at the end of the command line above). If you have many files to transfer, I recommend compressing them (as .zip or .tar) and uncompressing once in Gowonda.
 
-####To your computer:
+#### To your computer:
 
 Merely swap the order of the arguments from the command above (remember to be logged out of Gowonda):
 `scp your_snumber@gc-prd-hpclogin1.rcs.griffith.edu.au:~/file.txt /folder_in_local_computer/another_folder/`
 
-####From the internet:
+#### From the internet:
 
 *You can use this to transfer files from a link directly into Gowonda. This link can be the URL sent by the sequencing facility to download your raw reads or a link to your file in a cloud service.*
 
@@ -57,7 +57,7 @@ Now run `nohup wget download_url > download_log.txt &` to download files directl
 
 > **Tip:** To see the download's progress check the download log text file. One way to do this is by running `tail download_log.txt` from the log file's folder, this will show the last 10 lines of that text file.
 
-####To the internet (cloud storage):
+#### To the internet (cloud storage):
 
 Once you are done with your analyses, I recommend compressing your files and downloading from Gowonda into your favourite backup spot, which can be a cloud storage service.
 
