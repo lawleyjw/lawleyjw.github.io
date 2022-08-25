@@ -11,7 +11,7 @@ toc: true
 
 *Last updated:* 19 August 2022
 
-If you are using this workflow for your research, please cite the page https://lawleyjw.com/bioinfomatics
+If you are using this workflow for your research, please cite the page [https://lawleyjw.com/bioinfomatics](https://lawleyjw.com/bioinfomatics)
 
 *License:* [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
