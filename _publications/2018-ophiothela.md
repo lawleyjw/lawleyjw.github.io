@@ -1,7 +1,6 @@
 ---
 title: "Occurrence of the non-indigenous brittle star <i>Ophiothela</i> cf. <i>mirabilis</i> Verrill, 1867 (Echinodermata, Ophiuroidea) in natural and anthropogenic habitats off Santa Catarina, Brazil"
 collection: publications
-permalink: /publication/2018-ophiothela
 date: 2018-04-13
 venue: 'Check List'
 paperurl: '/files/pdf/research/Lawley2018-2.pdf'
