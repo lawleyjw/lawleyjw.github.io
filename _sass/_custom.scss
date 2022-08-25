@@ -16,7 +16,8 @@
 
 .container {
   position: relative;
-  width: 300px;
+  width: 100%;
+  max-width: 300px;
 }
 
 /* overlay effect (full height and width) - lays on top of the container */
