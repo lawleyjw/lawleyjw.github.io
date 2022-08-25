@@ -7,11 +7,11 @@ excerpt: 'A quickstart for bioinformatic analysis in the Griffith University Hig
 toc: true
 ---
 
-## A quickstart for bioinformatic analysis in the Griffith University High Performance Computing (HPC) Cluster (Gowonda)
+**A quickstart for bioinformatic analysis in the Griffith University High Performance Computing (HPC) Cluster (Gowonda)**
 
 *Last updated:* 19 August 2022
 
-If you are using this workflow for your research, please cite the GitHub repository https://github.com/lawleyjw/bioinfomatics-workflows
+If you are using this workflow for your research, please cite the page https://lawleyjw.com/bioinfomatics
 
 *License:* [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
@@ -31,7 +31,7 @@ Use your Griffith University password for access.
 
 ### 3) Transferring files to/from Gowonda
 
-**From your computer:**
+#### From your computer:
 
 Open the UNIX shell we just talked about (if you are logged into Gowonda, log out by typing `exit`) and use the *secure copy* command `scp`:
 `scp /folder_in_local_computer/another_folder/file.txt your_snumber@gc-prd-hpclogin1.rcs.griffith.edu.au:~/`
@@ -42,12 +42,12 @@ Open the UNIX shell we just talked about (if you are logged into Gowonda, log ou
 
 This will transfer the file into your home directory in Gowonda (the `~/` at the end of the command line above). If you have many files to transfer, I recommend compressing them (as .zip or .tar) and uncompressing once in Gowonda.
 
-**To your computer:**
+####To your computer:
 
 Merely swap the order of the arguments from the command above (remember to be logged out of Gowonda):
 `scp your_snumber@gc-prd-hpclogin1.rcs.griffith.edu.au:~/file.txt /folder_in_local_computer/another_folder/`
 
-**From the internet:**
+####From the internet:
 
 *You can use this to transfer files from a link directly into Gowonda. This link can be the URL sent by the sequencing facility to download your raw reads or a link to your file in a cloud service.*
 
@@ -57,7 +57,7 @@ Now run `nohup wget download_url > download_log.txt &` to download files directl
 
 > **Tip:** To see the download's progress check the download log text file. One way to do this is by running `tail download_log.txt` from the log file's folder, this will show the last 10 lines of that text file.
 
-**To the internet (cloud storage):**
+####To the internet (cloud storage):
 
 Once you are done with your analyses, I recommend compressing your files and downloading from Gowonda into your favourite backup spot, which can be a cloud storage service.
 
@@ -133,8 +133,8 @@ Finally, go to the folder where your job script is and *submit your job to the q
 
 To check your the *status of your queued job* use `qstat -u your_snumber`, or just `qstat` to see all jobs running or queued (you'll see an R or a Q, respectively, on your job's information row, as well as the elapsed time). 
 
-### For more information and guides about Gowonda check out the [Griffith HPC Cluster Documentation](https://griffith.atlassian.net/wiki/spaces/GHCD/overview?homepageId=4030474) and/or the [Griffith HPC Workshop](https://gu-eresearch.github.io/hpcWorkshop/).
-### You can find many bash command cheat sheets around (again, Google is your friend!), but [here](https://github.com/RehanSaeed/Bash-Cheat-Sheet) is one I like.
+**For more information and guides about Gowonda check out the [Griffith HPC Cluster Documentation](https://griffith.atlassian.net/wiki/spaces/GHCD/overview?homepageId=4030474) and/or the [Griffith HPC Workshop](https://gu-eresearch.github.io/hpcWorkshop/).**
+**You can find many bash command cheat sheets around (again, Google is your friend!), but [here](https://github.com/RehanSaeed/Bash-Cheat-Sheet) is one I like.**
 
 ---
 
@@ -144,13 +144,13 @@ To check your the *status of your queued job* use `qstat -u your_snumber`, or ju
 
 I’ve created a *conda* environment called *labmcdougall* and installed all the packages/programs that I have used to date for transcriptomics and protein data. If you need to install other packages, please feel free to get in touch, but I've also shown below how to do it.
 
-**To access the McDougall lab environment:**
+#### To access the McDougall lab environment:
 
 Run `module load anaconda3/2021.11`, then `source activate labmcdougall` .
 
 Use `conda env list` to check all environments available in that Anaconda build and `conda list` to see all packages/programs available in the *labmcdougall* environment.
 
-**To install other packages:**
+#### To install other packages:
 
 Run `source /usr/local/bin/s3proxy.sh` to allows access to the internet from the cluster. Then `module load anaconda3/2021.11` and `source activate labmcdougall`.
 
@@ -158,7 +158,7 @@ To search for packages you need to install, go to the [Anaconda website](https:/
 
 Follow through with the installation and you are ready to run the new package!
 
-**To run any of the packages:**
+#### To run any of the packages:
 
 Just modify the example scheduler script in section 4, it is already calling on the *labmcdougall* conda environment to run FastQC.
 
