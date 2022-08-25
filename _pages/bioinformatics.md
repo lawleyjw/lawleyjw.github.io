@@ -5,8 +5,10 @@ layout: archive
 author_profile: true
 ---
 
-{% include base_path %}
-
-{% for post in site.bioinformatics %}
-  {% include archive-single.html %}
-{% endfor %}
+<ul>
+  {% for post in site.bioinformatics %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
