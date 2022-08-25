@@ -1,7 +1,6 @@
 ---
 title: "Box jellyfish <i>Alatina alata</i> has a circumtropical distribution"
 collection: publications
-permalink: /publication/2016-alatina
 date: 2016-10-01
 venue: 'Biological Bulletin'
 link: 'https://doi.org/10.1086/690095'
