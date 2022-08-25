@@ -1,7 +1,8 @@
 ---
 title: 'Beginners guide to Gowonda HPC'
+collection: publications
 date: 2022-08-19
-permalink: /bioinformatics/2022-08-19-beginners-guide-gowonda/
+permalink: /bioinformatics/beginners-guide-gowonda/
 excerpt_separator: <!--more-->
 toc: true
 ---
