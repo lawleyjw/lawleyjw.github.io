@@ -1,7 +1,13 @@
-﻿# CEL-Seq workflow
+---
+title: 'CEL-Seq workflow'
+date: 2022-08-20
+permalink: /bioinformatics/cel-seq/
+excerpt_separator: <!--more-->
+toc: true
+---
 
 ### Workflow for bioinformatic analysis of CEL-Seq data in the Griffith University High Performance Computing (HPC) Cluster (Gowonda)
-
+<!--more-->
 *Created by:* Jonathan W. Lawley
 Based on the workflow from Carmel McDougall, with modifications by Tessa M. Page
 
