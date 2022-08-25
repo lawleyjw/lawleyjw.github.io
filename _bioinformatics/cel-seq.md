@@ -10,13 +10,11 @@ toc: true
 
 Based on the workflow from Carmel McDougall, with modifications by Tessa M. Page
 
-*Last updated:* 20 August 2022
-
 If you are using this workflow for your research, please cite the page [https://lawleyjw.com/bioinfomatics](https://lawleyjw.com/bioinfomatics)
 
 *License:* [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-**First-time Gowonda/HPC users (or for those that need a detailed refresher) start with the [Beginners guide to Gowonda HPC](https://lawleyjw.github.io/bioinformatics/beginners-guide-gowonda/).
+**First-time Gowonda/HPC users (or for those that need a detailed refresher) start with the [Beginners guide to Gowonda HPC](https://lawleyjw.github.io/bioinformatics/beginners-guide-gowonda/).**
 
 ### 1) Convert BCL to FASTQ
 
