@@ -2,6 +2,7 @@
 title: "Bioinformatics"
 permalink: /bioinformatics/
 author_profile: true
+layout: archive
 ---
 
 {% include base_path %}
