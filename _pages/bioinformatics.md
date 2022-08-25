@@ -4,11 +4,11 @@ permalink: /bioinformatics/
 author_profile: true
 ---
 
-<ul>
-  {% for post in site.bioinformatics %}
-    <li>
-      <a href="{{ post.permalink }}">{{ post.title }}</a>
-      <p>{{ post.excerpt }}</p>
-    </li>
-  {% endfor %}
-</ul>
+{% for workflow in site.bioinformatics %}
+  <h2>
+    <a href="{{ workflow.url }}">
+      {{ workflow.title }}
+    </a>
+  </h2>
+  <p>{{ workflow.excerpt}}</p>
+{% endfor %}
