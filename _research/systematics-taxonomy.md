@@ -1,5 +1,5 @@
 ---
-title: "Systematics and taxonomy"
+title: "Systematics and Taxonomy"
 layout: single-portfolio
 excerpt: "<img src='/images/research/systematics.png' alt=''>"
 collection: research
