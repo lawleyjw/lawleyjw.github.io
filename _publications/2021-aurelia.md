@@ -1,7 +1,6 @@
 ---
 title: "The importance of molecular characters when morphological variability hinders diagnosability: systematics of the moon jellyfish genus <i>Aurelia</i> (Cnidaria: Scyphozoa)"
 collection: publications
-permalink: /publication/2021-aurelia
 date: 2021-09-09
 venue: 'PeerJ'
 paperurl: '/files/pdf/research/Lawley2021-1.pdf'
