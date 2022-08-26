@@ -1,6 +1,6 @@
 ---
-title: "Systematics and Taxonomy"
-permalink: /research/systematics-taxonomy/
+title: "Systematics"
+permalink: /research/systematics/
 author_profile: true
 ---
 
