@@ -9,8 +9,6 @@ My research falls into three main areas: **systematics (and taxonomy)**, **molec
 ## Key research projects
 
 ### Drivers of colour variation in jellyfish
-| | | 
-| - | :-- | 
 | ![](/images/research/colour-variation-small.jpg) | Color can play an important role in an organism’s survival, providing camouflage and photoprotection, and influencing sexual selection and social interactions. The goal of this project was to investigate the endogenous and exogenous drivers of colour variation in the blubber jellyfish <i>Catostylus mosaicus</i>. | 
 
 Lawley JW <i>et al</i>. 2021. Rhizostomins: A Novel Pigment Family From Rhizostome Jellyfish (Cnidaria, Scyphozoa). <i>Frontiers in Marine Science</i>
