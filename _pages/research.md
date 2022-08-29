@@ -14,7 +14,7 @@ My research falls into three main areas: **systematics (and taxonomy)**, **molec
 </p>
 Color can play an important role in an organism’s survival, providing camouflage and photoprotection, and influencing sexual selection and social interactions. The goal of this project was to investigate the endogenous and exogenous drivers of colour variation in the blubber jellyfish <i>Catostylus mosaicus</i>.
 <br/><br/>
-#### Lawley JW <i>et al</i>. 2021. Rhizostomins: A Novel Pigment Family From Rhizostome Jellyfish (Cnidaria, Scyphozoa). <i>Frontiers in Marine Science</i><br/>
+- **Lawley JW <i>et al</i>. 2021. Rhizostomins: A Novel Pigment Family From Rhizostome Jellyfish (Cnidaria, Scyphozoa). <i>Frontiers in Marine Science</i>**<br/>
 [Article](https://doi.org/10.3389/fmars.2021.752949){: .btn--research} [PDF](/files/pdf/research/Lawley2021-2.pdf){: .btn--research}
 
 ### Systematics of the moon jellyfish genus <i>Aurelia</i>
