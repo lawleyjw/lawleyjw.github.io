@@ -7,10 +7,10 @@ main:
     url: /publications/
 
   - title: "Bioinformatics"
-    url: /bioinformatics/ #software
+    url: /bioinformatics/
 
-  - title: "Blog"
-    url: /posts/
+  - title: "Media"
+    url: /media/
     
   - title: "CV"
     url: /cv/
