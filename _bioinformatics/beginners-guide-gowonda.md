@@ -94,7 +94,7 @@ To *remove* a file use `rm`:
 
 If you want to check which arguments or options a certain command requires, the *manual* option usually works for the base commands. For example, `man rm` will show you how to run the *remove* command and the options it accepts. Alternatively try using the *help* option `-h` after a command, especially for commands from installed programs.
 
-### 4) Running jobs in Gowonda
+### 5) Running jobs in Gowonda
 
 To run bioinformatic analyses in Gowonda you need to create a scheduler script that tells the cluster what [bash](https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29) commands to run on which files and what computational resources to use.
 
