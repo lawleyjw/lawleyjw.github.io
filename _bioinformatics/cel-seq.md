@@ -10,8 +10,6 @@ toc: true
 
 Based on the workflow from Carmel McDougall, with modifications by Tessa M. Page
 
-If you are using this workflow for your research, please cite the page [https://lawleyjw.com/bioinfomatics](https://lawleyjw.com/bioinfomatics)
-
 *License:* [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 **First-time Gowonda/HPC users (or for those that need a detailed refresher) start with the [Beginners guide to Gowonda HPC](https://lawleyjw.github.io/bioinformatics/beginners-guide-gowonda/).**
@@ -34,7 +32,7 @@ Now you need to run a scheduler script for the Illumina bcl2fastq conversion sof
 cd $PBS_O_WORKDIR
 source $HOME/.bashrc
 module load anaconda3/2021.11
-source activate labmcdougall
+source activate labmcdougallRoot
 bcl2fastq -r 4 -w 4 -p 14 --runfolder-dir ~/scratch/celseq_raw/your_folder_with_seq_data/ --output-dir ~/scratch/celseq_raw/fastq --minimum-trimmed-read-length 15 
 ```
 
