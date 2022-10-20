@@ -108,7 +108,7 @@ Here is an example of script to run FastQC on paired-end raw reads:
 
 cd $PBS_O_WORKDIR
 module load anaconda3/2021.11
-source activate labmcdougall
+source activate labmcdougallRoot
 
 fastqc --noextract -o QC/ Undetermined_S0_L001_R1_001.fastq
 fastqc --noextract -o QC/ Undetermined_S0_L001_R2_001.fastq
@@ -135,17 +135,17 @@ To check your the *status of your queued job* use `qstat -u your_snumber`, or ju
 
 *[Anaconda](https://en.wikipedia.org/wiki/Anaconda_%28Python_distribution%29)* is a software distribution for scientific computing that houses *conda*, the package manager underlying *Anaconda* that makes it easier for users to install and manage packages/programs, especially in the HPC setting.
 
-I’ve created a *conda* environment called *labmcdougall* and installed all the packages/programs that I have used to date for transcriptomics and protein data. If you need to install other packages, please feel free to get in touch, but I've also shown below how to do it.
+I’ve created a *conda* environment called *labmcdougallRoot* and installed all the packages/programs that I have used to date for transcriptomics and protein data. If you need to install other packages, please feel free to get in touch, but I've also shown below how to do it.
 
 #### To access the McDougall lab environment
 
-Run `module load anaconda3/2021.11`, then `source activate labmcdougall` .
+Run `module load anaconda3/2021.11`, then `source activate labmcdougallRoot` .
 
-Use `conda env list` to check all environments available in that Anaconda build and `conda list` to see all packages/programs available in the *labmcdougall* environment.
+Use `conda env list` to check all environments available in that Anaconda build and `conda list` to see all packages/programs available in the *labmcdougallRoot* environment.
 
 #### To install other packages
 
-Run `source /usr/local/bin/s3proxy.sh` to allows access to the internet from the cluster. Then `module load anaconda3/2021.11` and `source activate labmcdougall`.
+Run `source /usr/local/bin/s3proxy.sh` to allows access to the internet from the cluster. Then `module load anaconda3/2021.11` and `source activate labmcdougallRoot`.
 
 To search for packages you need to install, go to the [Anaconda website](https://anaconda.org) and type in the package you are looking for. For example, if you are searching for bowtie2, [this](https://anaconda.org/search?q=bowtie2) is what you would find. Give preference to packages that are within the *bioconda* channel and click on the package name ([this](https://anaconda.org/bioconda/bowtie2) is what you would see in this example). In the page that opens, you will see a command that you can copy and paste to run the installation. In this example it's `conda install -c bioconda bowtie2`.
 
@@ -153,6 +153,6 @@ Follow through with the installation and you are ready to run the new package!
 
 #### To run any of the packages
 
-Just modify the example scheduler script in section 4, it is already calling on the *labmcdougall* conda environment to run FastQC.
+Just modify the example scheduler script in section 4, it is already calling on the *labmcdougallRoot* conda environment to run FastQC.
 
 **For more information check out the [Griffith HPC Cluster Documentation](https://griffith.atlassian.net/wiki/spaces/GHCD/overview?homepageId=4030474), especially the [FAQ section](https://griffith.atlassian.net/wiki/spaces/GHCD/pages/4030751/FAQ+-+Griffith+HPC+Cluster).**
