@@ -8,6 +8,8 @@ toc: true
 
 **A quickstart for bioinformatic analysis in the Griffith University High Performance Computing (HPC) Cluster (Gowonda)**
 
+*License:* [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 ### 1) First things first
 Request permission to access Gowonda [here](https://www.griffith.edu.au/eresearch-services/hpc) (click on "Create HPC account").
 
