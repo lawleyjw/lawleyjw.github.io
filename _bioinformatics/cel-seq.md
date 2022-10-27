@@ -1,7 +1,7 @@
 ---
 title: 'CEL-Seq workflow'
 collection: bioinformatics
-permalink: /bioinformatics/cel-seq/
+permalink: #/bioinformatics/cel-seq/
 excerpt: 'Workflow for bioinformatic analysis of CEL-Seq data in the Griffith University High Performance Computing (HPC) Cluster (Gowonda)'
 toc: true
 ---
