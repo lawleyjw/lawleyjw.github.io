@@ -35,5 +35,6 @@ source activate labmcdougallRoot
 fastqc --noextract -o fastqc/ RNA_1.fastq.gz
 fastqc --noextract -o fastqc/ RNA_2.fastq.gz
 ```
+For tutorials on how to interpret the FastQC outputs check https://www.bioinformatics.babraham.ac.uk/projects/fastqc/ and/or https://rtsf.natsci.msu.edu/genomics/tech-notes/fastqc-tutorial-and-faq.aspx
 
 *Under construction*
