@@ -26,7 +26,7 @@ Now you need to run a scheduler script for FastQC, below is an example. I recomm
 #PBS -m abe
 #PBS -M your_email_adress@griffith/griffithuni.edu.au
 #PBS -N fastqc
-#PBS -l walltime=20:00:00
+#PBS -l select=1:ncpus=1:mem=10gb,walltime=04:00:00
 
 cd $PBS_O_WORKDIR
 module load anaconda3/2021.11
@@ -35,6 +35,12 @@ source activate labmcdougallRoot
 fastqc --noextract -o fastqc/ RNA_1.fastq.gz
 fastqc --noextract -o fastqc/ RNA_2.fastq.gz
 ```
+The output desired is the HTML file that contains all the quality info
+
 For tutorials on how to interpret the FastQC outputs check https://www.bioinformatics.babraham.ac.uk/projects/fastqc/ and/or https://rtsf.natsci.msu.edu/genomics/tech-notes/fastqc-tutorial-and-faq.aspx
+
+### 2) Assembly with Trinity
+
+If paired-end reads were generated, they need to be assembled into contigs
 
 *Under construction*
