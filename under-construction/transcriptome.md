@@ -14,26 +14,26 @@ Based on the workflow from Carmel McDougall, with modifications by Tessa M. Page
 
 **First-time Gowonda/HPC users (or for those that need a detailed refresher) start with the [Beginners guide to Gowonda HPC](https://lawleyjw.github.io/bioinformatics/beginners-guide-gowonda/).**
 
-### 1) Convert BCL to FASTQ
+### 1) Run a quality control with FastQC
 
-The Illumina NextSeq and HiSeq Sequencing Systems and NovaSeq 6000 generate raw data files in binary base call (BCL) sequence file format. If this is your case, you'll have to convert it to [FASTQ](https://en.wikipedia.org/wiki/FASTQ_format) format, which is a text-based format similar to FASTA but it also includes quality scores.
+Sequenced reads are normally provided in [FASTQ](https://en.wikipedia.org/wiki/FASTQ_format) format, which is a text-based format similar to FASTA but it also includes quality scores. Transfer the compressed FASTQ files into Gowonda (see section 3 of the "Beginners guide to Gowonda HPC" if you don' know how to do this!).
 
-After you've downloaded your raw sequencing file (or files), I recommend transferring it into a new folder in your `scratch`, for example `celseq_raw` (see "Beginners guide to Gowonda HPC" if you don' know how to do this!).
+After you've transferred your FASTQ files into Gowonda, I recommend moving it into a new folder in your `scratch`, for example `transcriptome_raw`.
 
-Then unzip it with `nohup tar -xopf your-seqdata-filename.tar &`, and a folder will appear with the same name as your file (if you are not familiar with `nohup`, also check the "Beginners guide to Gowonda HPC").
-
-Now you need to run a scheduler script for the Illumina bcl2fastq conversion software, below is an example. I recommend creating a folder called `fastq` before running the script, for your converted output files.
+Now you need to run a scheduler script for FastQC, below is an example. I recommend creating a folder called `fastqc` before running the script, for your converted output files.
 ```
 #!/bin/bash -l
 #PBS -m abe
 #PBS -M your_email_adress@griffith/griffithuni.edu.au
-#PBS -N bcl2fastq
-#PBS -l select=1:ncpus=16:mem=64gb,walltime=100:00:00
+#PBS -N fastqc
+#PBS -l walltime=20:00:00
+
 cd $PBS_O_WORKDIR
-source $HOME/.bashrc
 module load anaconda3/2021.11
 source activate labmcdougallRoot
-bcl2fastq -r 4 -w 4 -p 14 --runfolder-dir ~/scratch/celseq_raw/your_folder_with_seq_data/ --output-dir ~/scratch/celseq_raw/fastq --minimum-trimmed-read-length 15 
+
+fastqc --noextract -o fastqc/ RNA_1.fastq.gz
+fastqc --noextract -o fastqc/ RNA_2.fastq.gz
 ```
 
 *Under construction*
