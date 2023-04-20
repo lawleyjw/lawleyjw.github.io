@@ -35,9 +35,9 @@ source activate labmcdougallRoot
 fastqc --noextract -o fastqc/ RNA_1.fastq.gz
 fastqc --noextract -o fastqc/ RNA_2.fastq.gz
 ```
-The output desired is the HTML file that contains all the quality info
+Download the the summarised FastQC reports (the HTML output files) in the `fastqc` folder to your computer and open in a web browser to check all the quality information. If you want more details and exact values for the different quality tests, check the output ZIP files.
 
-For tutorials on how to interpret the FastQC outputs check https://www.bioinformatics.babraham.ac.uk/projects/fastqc/ and/or https://rtsf.natsci.msu.edu/genomics/tech-notes/fastqc-tutorial-and-faq.aspx
+For guides on how to interpret the FastQC outputs check [Babraham Bioinformatics](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) (the developer) and/or this [FastQC tutorial](https://rtsf.natsci.msu.edu/genomics/tech-notes/fastqc-tutorial-and-faq.aspx).
 
 ### 2) Assembly with Trinity
 
