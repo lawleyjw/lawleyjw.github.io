@@ -51,7 +51,7 @@ Now you can run a scheduler script to run Trinity, such as the one below.
 #PBS -m abe
 #PBS -M your_email_adress@griffith/griffithuni.edu.au
 #PBS -N trinity
-#PBS -l select=4:ncpus=8:mpiprocs=8:mem=8gb,walltime=100:00:00
+#PBS -l select=4:ncpus=4:mpiprocs=4:mem=8gb,walltime=100:00:00
 
 cd $PBS_O_WORKDIR
 module load anaconda3/2021.11
