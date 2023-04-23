@@ -43,7 +43,7 @@ For guides on how to interpret the FastQC outputs check [Babraham Bioinformatics
 
 If paired-end reads were generated, they need to be assembled into transcripts, which Trinity does!
 
-I recommend creating a new folder in `scratch` for the assembly, like `transcriptome_assembly`.
+I recommend creating a new folder in `scratch` for the assembly, like `transcriptome_assembly`. The output folder for Trinity should also contain the program's name to avoid auto-deletion (Trinity will error out if you don't do this!), so create another folder, such as `trinity`.
 
 Now you can run a scheduler script to run Trinity, such as the one below.
 ```
@@ -57,7 +57,7 @@ cd $PBS_O_WORKDIR
 module load anaconda3/2021.11
 source activate labmcdougallRoot
 
-Trinity --seqType fq --trimmomatic --no_normalize_reads --jaccard_clip --max_memory 32G --CPU 8 --inchworm_cpu 8 --SS_lib_type RF --left ~/scratch/transcriptome_raw/RNA1_1.fastq.gz --right ~/scratch/transcriptome_raw/RNA1_2.fastq.gz --output ~/scratch/transcriptome_assembly/
+Trinity --seqType fq --trimmomatic --no_normalize_reads --jaccard_clip --max_memory 32G --CPU 8 --inchworm_cpu 8 --SS_lib_type RF --left ~/scratch/transcriptome_raw/RNA1_1.fastq.gz --right ~/scratch/transcriptome_raw/RNA1_2.fastq.gz --output ~/scratch/transcriptome_assembly/trinity
 ```
 
 
