@@ -6,6 +6,13 @@ excerpt: 'Interactive app to easily extract sequences of interest from a referen
 toc: true
 ---
 
+**SubFASTA**
+
+An interactive R Shiny App to extract sequences of interest from a reference FASTA file. Developed by Jonathan W. Lawley (thanks to Ido Bar for the idea!)
+
+*License:* [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+R code:
 ```{r}
 library(shiny)
 library(seqinr)
