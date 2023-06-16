@@ -8,7 +8,7 @@ toc: true
 
 **[SubFASTA](https://lawleyjw.shinyapps.io/subfasta-app/)**
 
-An interactive R Shiny App to extract sequences of interest from a reference FASTA file. Developed by Jonathan W. Lawley (thanks to Ido Bar for the idea!)
+An interactive R Shiny App to extract sequences of interest from a reference FASTA file. Developed by Jonathan W. Lawley and Ido Bar.
 
 *License:* [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
