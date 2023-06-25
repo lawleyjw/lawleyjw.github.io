@@ -58,5 +58,6 @@ module load anaconda3/2021.11
 source activate labmcdougallRoot
 
 Trinity --seqType fq --trimmomatic --no_normalize_reads --jaccard_clip --max_memory 32G --CPU 4 --inchworm_cpu 4 --SS_lib_type RF --left ~/scratch/transcriptome_raw/RNA1_1.fastq.gz --right ~/scratch/transcriptome_raw/RNA1_2.fastq.gz --output ~/scratch/transcriptome_assembly/trinity
+```
 
 *Under construction*
