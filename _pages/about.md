@@ -15,6 +15,7 @@ Welcome! I am an evolutionary biologist interested in marine invertebrates, espe
 <br/>
 I am a Research Fellow in Molecular Biology in Bioinformatics at the [Centre for Planetary Health and Food Security](https://www.griffith.edu.au/centre-planetary-health-food-security) at [Griffith University](https://www.griffith.edu.au). I earned my PhD from [Griffith University](https://www.griffith.edu.au), Australia (2019 - 2023), my MSc in Zoology from the University of São Paulo, Brazil (2016 - 2018), and my BSc in Biological Sciences from the Federal University of Santa Catarina, Brazil (2009 - 2015).
 <br/>
+<br/>
 <p align="center">
   <img width="500" height="345" src="/images/Jellies-JonLawley.jpg">
 </p>
