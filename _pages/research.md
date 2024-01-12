@@ -4,9 +4,15 @@ permalink: /research/
 author_profile: true
 ---
 
-My research falls into three main areas: **molecular biology**, **systematics** and **biogreography**. Research projects often involve a combination of these areas to investigate morphological change, speciation and macroevolutionary patterns. For published outcomes from projects and collaborations, see full list of [publications](https://lawleyjw.com/publications/).
+My research falls into three main areas: **molecular biology**, **systematics**, and **biogreography**. Research projects often involve a combination of these areas to investigate morphological change, speciation and macroevolutionary patterns. For published outcomes from projects and collaborations, see full list of [publications](https://lawleyjw.com/publications/).
 
 ## Key projects
+
+### Developing advanced diagnostic tools for QX disease in oyster aquaculture
+In collaboration with the Queensland Department of Agriculture and Fisheries (DAF) we are developing advanced diagnostic tools for QX disease in oyster aquaculture, including a reliable qPCR-based assay for the parasite <i>Marteilia sydneyi</i> and a field-friendly point-of-care solution. These tools will enhance our understanding of the parasite and improve disease management, contributing towards sustainable oyster aquaculture and industry.
+
+### Using genomics to unravel the increasing aggressiveness of Ascochyta blight disease in chickpea
+Ascochyta Blight caused by <i>Ascochyta rabiei</i> is a major biotic threat to chickpea (<i>Cicer arietinum</i>) worldwide and it incurs substantial costs to the Australian multimillion-dollar chickpea industry in disease control expenses and in yield losses. We are integrating advanced molecular biology tools to uncover the genetic factors driving aggressiveness, with the aim of developing molecular tools to rapidly determine an isolate’s potential to cause disease and improve breeding efforts for chickpea growers.
 
 ### Drivers of colour variation in jellyfish
 <p align="center">
