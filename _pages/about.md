@@ -6,7 +6,6 @@ redirect_from:
   - /about.html
 ---
 
-<br/>
 Welcome! I am an evolutionary biologist and my [research](https://lawleyjw.github.io/research/) integrates omics tools, morphological analyses, and field- and lab-based investigations to unravel patterns and drivers of diversification, as well as the underlying mechanisms of evolutionary change. My experience also involves teaching in various formal and informal settings, reviewing and editing academic texts, as well as programming and [bioinformatics](https://lawleyjw.github.io/bioinformatics/).
 <br/>
 <br/>
