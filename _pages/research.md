@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research falls into three main areas: **molecular biology**, **systematics**, and **biogreography**. Research projects often involve a combination of these areas to investigate morphological change, speciation and macroevolutionary patterns. For published outcomes from projects and collaborations, see full list of [publications](https://lawleyjw.com/publications/).
+My research falls into three main areas: **molecular biology**, **systematics**, and **biogeography**. Research projects often involve a combination of these areas to investigate morphological change, speciation and macroevolutionary patterns. For published outcomes from projects and collaborations, see full list of [publications](https://lawleyjw.com/publications/).
 
 ## Key projects
 
