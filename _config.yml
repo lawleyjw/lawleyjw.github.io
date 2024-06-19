@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jonathan W. Lawley"
 title_separator          : "-"
 name                     : &name "Jonathan W. Lawley"
-description              : &description "Evolutionary biologist"
+description              : &description "Ecologist and Evolutionary biologist"
 url                      : https://lawleyjw.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lawleyjw/lawleyjw.github.io"
@@ -86,11 +86,12 @@ author:
   avatar           : "profile.jpg"
   bio              : "Evolutionary biologist"
   location         : "Gold Coast, Australia"
+  employer         : "Ecological Service Professionals"
   employer         : "Griffith University"
   pubmed           :
   orcid            : "https://orcid.org/0000-0003-1267-5294"
   googlescholar    : "https://scholar.google.com/citations?user=3Exk77MAAAAJ&hl=en"
-  email            : "j.wanderleylawley@griffith.edu.au"
+  email            : "jwlawley@hotmail.com"
   researchgate     : "https://www.researchgate.net/profile/Jonathan_Lawley" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
