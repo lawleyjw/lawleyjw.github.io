@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jonathan W. Lawley"
 title_separator          : "-"
 name                     : &name "Jonathan W. Lawley"
-description              : &description "Ecologist and Evolutionary biologist"
+description              : &description "Ecologist and Evolutionary Biologist"
 url                      : https://lawleyjw.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lawleyjw/lawleyjw.github.io"
@@ -82,9 +82,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr Jonathan Lawley"
+  name             : "Dr Jonathan W. Lawley"
   avatar           : "profile.jpg"
-  bio              : "Evolutionary biologist"
+  bio              : "Ecologist and Evolutionary Biologist"
   location         : "Gold Coast, Australia"
   employer         : "Ecological Service Professionals"
   employer         : "Griffith University"
