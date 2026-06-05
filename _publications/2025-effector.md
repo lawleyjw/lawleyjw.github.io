@@ -1,5 +1,5 @@
 ---
-title: "Effector molecules and pathogenicity-associated gene expression in Ascochyta rabiei"
+title: "Effector molecules and pathogenicity-associated gene expression in <i>Ascochyta rabiei</i>"
 collection: publications
 date: 2025-01-01
 venue: '*Fungal Biology*'
