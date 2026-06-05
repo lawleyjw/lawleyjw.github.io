@@ -1,5 +1,5 @@
 ---
-title: "Molecular signatures reveal intra-species divergence, undetectable by traditional morphology, in the deadly box jellyfish, Chironex yamaguchii (Cubozoa; Chirodropidae) of Western Pacific"
+title: "Molecular signatures reveal intra-species divergence, undetectable by traditional morphology, in the deadly box jellyfish, <i>Chironex yamaguchii</i> (Cubozoa; Chirodropidae) of Western Pacific"
 collection: publications
 date: 2025-01-01
 venue: '*Regional Studies in Marine Science*'
