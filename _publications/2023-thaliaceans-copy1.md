@@ -1,9 +1,9 @@
 ---
-title: "Assemblages of pelagic thaliaceans in oceanographic features at the tropical-temperate transition zone of a western boundary current"
+title: "Effector molecules and pathogenicity-associated gene expression in Ascochyta rabiei"
 collection: publications
-date: 2023-06-02
-venue: 'Journal of Plankton Research'
-paperurl: '/files/pdf/research/Pitt_et_al_2023_JPR.pdf'
-link: 'https://doi.org/10.1093/plankt/fbad024'
-citation: 'Pitt KA, <ins>Lawley JW</ins>, Hinchliffe C, Matis PA, Olguín-Jacobson C, Arafeh-Dalmau N, Lindholm P, Arnold J, Suthers IM. 2023. Assemblages of pelagic thaliaceans in oceanographic featu[...]
+date: 2025-01-01
+venue: 'Fungal Biology'
+paperurl: ''
+link: 'https://doi.org/10.1016/j.funbio.2025.101668'
+citation: 'Monsur MB, Bar I, <ins>Lawley JW</ins>, Ford R. 2025. Effector molecules and pathogenicity-associated gene expression in Ascochyta rabiei. Fungal Biology 129:101668.'
 ---
