@@ -1,5 +1,5 @@
 ---
-title: "Population-level whole-genome sequencing of Ascochyta rabiei identifies genomic loci associated with isolate aggressiveness"
+title: "Population-level whole-genome sequencing of <i>Ascochyta rabiei</i> identifies genomic loci associated with isolate aggressiveness"
 collection: publications
 date: 2024-01-01
 venue: '*Microbial Genomics*'
