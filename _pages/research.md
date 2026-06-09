@@ -10,6 +10,12 @@ For published outcomes from projects and collaborations, see full list of [publi
 
 ## Key projects
 
+### Environmental DNA (eDNA) and biodiversity monitoring
+Environmental DNA (eDNA) is transforming how biodiversity is monitored in aquatic ecosystems. My work focuses on the application of molecular tools to detect species, assess biodiversity, and complement traditional ecological survey methods. Current interests include the integration of eDNA into environmental monitoring programs, the interpretation of molecular data within ecological assessments, and the development of robust approaches for biodiversity monitoring, conservation, and environmental management.
+
+### Ecological modelling, machine learning, and data science
+Ecological systems generate increasingly large and complex datasets, creating new opportunities to understand biodiversity patterns and inform conservation and management decisions. My research applies ecological modelling, bioinformatics, machine learning, and spatial analyses to investigate species distributions, habitat suitability, and ecosystem dynamics. Current projects include habitat suitability modelling for marine restoration and conservation planning, as well as the use of machine learning and artificial intelligence to automate the analysis of ecological imagery and other large environmental datasets.
+
 ### Developing advanced diagnostic tools for QX disease in oyster aquaculture
 In collaboration with the Queensland Department of Agriculture and Fisheries (DAF) we are developing advanced diagnostic tools for QX disease in oyster aquaculture, including a reliable qPCR-based assay for the parasite <i>Marteilia sydneyi</i> and a field-friendly point-of-care solution. These tools will enhance our understanding of the parasite and improve disease management, contributing towards sustainable oyster aquaculture and industry.
 
