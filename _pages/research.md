@@ -4,7 +4,9 @@ permalink: /research/
 author_profile: true
 ---
 
-My research falls into three main areas: **molecular biology**, **systematics**, and **biogeography**. Research projects often involve a combination of these areas to investigate morphological change, speciation and macroevolutionary patterns. For published outcomes from projects and collaborations, see full list of [publications](https://lawleyjw.com/publications/).
+My research focuses on understanding biodiversity across ecological and evolutionary scales. I use a combination of field observations, laboratory experiments, molecular techniques, bioinformatics, ecological modelling, and data science to investigate how biodiversity is distributed, how species evolve and interact, and how ecosystems respond to natural and human-driven change. My work spans topics including taxonomy and systematics, molecular ecology, biogeography, genomics, environmental DNA (eDNA), habitat suitability modelling, and machine learning applications in ecology. Increasingly, I am interested in translating research into practical tools and evidence that support biodiversity monitoring, environmental management, and conservation.
+
+For published outcomes from projects and collaborations, see full list of [publications](https://lawleyjw.com/publications/).
 
 ## Key projects
 
