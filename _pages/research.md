@@ -17,10 +17,10 @@ In collaboration with the Queensland Department of Agriculture and Fisheries (DA
 Ascochyta Blight caused by <i>Ascochyta rabiei</i> is a major biotic threat to chickpea (<i>Cicer arietinum</i>) worldwide and it incurs substantial costs to the Australian multimillion-dollar chickpea industry in disease control expenses and in yield losses. We are integrating advanced molecular biology tools to uncover the genetic factors driving aggressiveness, with the aim of developing molecular tools to rapidly determine an isolate's potential to cause disease and improve breeding efforts for chickpea growers.
 <br/><br/>
 Monsur MB, Bar I, Lawley JW, Ford R. 2025. Effector molecules and pathogenicity-associated gene expression in <i>Ascochyta rabiei</i>. <i>Fungal Biology</i> 129:101668.<br/>
-[Article](https://doi.org/10.1016/j.funbio.2025.101668){: .btn--research}
+[Article](https://doi.org/10.1016/j.funbio.2025.101668){: .btn--research} [PDF](/files/pdf/research/Monsur2025.pdf){: .btn--research}
 <br/><br/>
 Vaghefi N, Bar I, Lawley JW, Sambasivam PT, Christie M, Ford R. 2024. Population-level whole-genome sequencing of <i>Ascochyta rabiei</i> identifies genomic loci associated with isolate aggressiveness. <i>Microbial Genomics</i> 10:001326.<br/>
-[Article](https://doi.org/10.1099/mgen.0.001326){: .btn--research}
+[Article](https://doi.org/10.1099/mgen.0.001326){: .btn--research} [PDF](/files/pdf/research/Vaghefi2024.pdf){: .btn--research}
 
 ### Drivers of colour variation in jellyfish
 <p align="center">
