@@ -6,7 +6,7 @@ author_profile: true
 
 My research focuses on understanding aquatic biodiversity across ecological and evolutionary scales. I use a combination of field observations, laboratory experiments, molecular techniques, bioinformatics, ecological modelling, and data science to investigate how biodiversity is distributed, how species evolve and interact, and how ecosystems respond to natural and human-driven change. 
 
-Research themes include:
+Current research themes include:
 
 * Taxonomy and systematics
 * Biogeography and macroecology
@@ -15,7 +15,7 @@ Research themes include:
 * Ecological and habitat suitability modelling
 * Bioinformatics, data science, and machine learning
 
-Increasingly, I am interested in translating research into practical tools and evidence that support biodiversity monitoring, environmental management, and conservation.
+I am particularly interested in translating research into practical tools and evidence that support biodiversity monitoring, environmental management, and conservation.
 
 For published outcomes from projects and collaborations, see full list of [publications](https://lawleyjw.com/publications/).
 
