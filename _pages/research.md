@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research focuses on understanding aquatic biodiversity across ecological and evolutionary scales. I use a combination of field observations, laboratory experiments, molecular techniques, bioinformatics, ecological modelling, and data science to investigate how biodiversity is distributed, how species evolve and interact, and how ecosystems respond to natural and human-driven change. 
+My research focuses on understanding aquatic biodiversity across ecological and evolutionary scales. I use a combination of field observations, laboratory experiments, molecular techniques, bioinformatics, and ecological modelling to investigate how biodiversity is distributed, how species evolve and interact, and how ecosystems respond to natural and human-driven change. 
 
 Current research themes include:
 
