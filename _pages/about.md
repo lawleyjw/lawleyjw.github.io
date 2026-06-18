@@ -6,13 +6,26 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am an ecologist and evolutionary biologist with over 10 years of experience in research, teaching, and consultancy. My [research](https://lawleyjw.github.io/research/) focuses on understanding aquatic biodiversity across ecological and evolutionary scales, combining field ecology, molecular biology, genomics, ecological modelling, data science, and [bioinformatics](https://lawleyjw.github.io/bioinformatics/) to investigate how species evolve, interact, and respond to environmental change. My experience also involves teaching in various formal and informal settings, reviewing and editing academic texts, as well as programming and the application of emerging technologies to ecological research.
+Welcome! I am an ecologist and evolutionary biologist with over 10 years of experience in research, teaching, and consultancy. My [research](https://lawleyjw.github.io/research/) focuses on underst[...]
 <br/>
 <br/>
-I am a Senior Aquatic Ecologist at [Ecological Service Professionals](https://www.ecosp.com.au/). My recent work has focused on biodiversity monitoring, environmental DNA (eDNA), ecological modelling, genomics, and molecular diagnostics, including habitat suitability modelling for conservation and restoration, the application of molecular and computational tools to biodiversity assessments and environmental management, oyster disease diagnostics, and pathogen genomics in agricultural systems. I earned my PhD from [Griffith University](https://www.griffith.edu.au), Australia (2019 - 2023), my MSc in Zoology from the University of São Paulo, Brazil (2016 - 2018), and my BSc in Biological Sciences from the Federal University of Santa Catarina, Brazil (2009 - 2015).
+I am a Senior Aquatic Ecologist at [Ecological Service Professionals](https://www.ecosp.com.au/). My recent work has focused on biodiversity monitoring, environmental DNA (eDNA), ecological modell[...]
 <br/>
 <br/>
 <p align="center">
-  <img width="500" height="345" src="/images/Jellies-JonLawley.jpg">
+  <div style="display:flex;flex-wrap:wrap;justify-content:center;max-width:520px;margin:0 auto;">
+    <div style="flex:0 0 50%;padding:2px;">
+      <img src="/images/Jon_diving.JPG" alt="Jon diving" style="width:100%;height:auto;">
+    </div>
+    <div style="flex:0 0 50%;padding:2px;">
+      <img src="/images/Jon_eDNAfilter.JPG" alt="Jon eDNA filter" style="width:100%;height:auto;">
+    </div>
+    <div style="flex:0 0 50%;padding:2px;">
+      <img src="/images/Landscape-oysters.JPG" alt="Oysters landscape" style="width:100%;height:auto;">
+    </div>
+    <div style="flex:0 0 50%;padding:2px;">
+      <img src="/images/Jon_freshwater.JPG" alt="Jon freshwater" style="width:100%;height:auto;">
+    </div>
+  </div>
 </p>
 
