@@ -15,7 +15,7 @@ I am a Senior Aquatic Ecologist at [Ecological Service Professionals](https://ww
 <div align="center">
 <table>
   <tr>
-    <td><img src="/images/Jon_diving.JPG" width="400"></td>
+    <td><img src="/images/Jon_diving-cropped.JPG" width="400"></td>
     <td><img src="/images/Jon_eDNAfilter.JPG" width="400"></td>
   </tr>
   <tr>
