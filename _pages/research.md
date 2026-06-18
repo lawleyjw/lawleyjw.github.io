@@ -19,6 +19,10 @@ I am particularly interested in translating research into practical tools and ev
 
 For published outcomes from projects and collaborations, see full list of [publications](https://lawleyjw.com/publications/).
 
+<div align="center" style="margin: 30px 0;">
+  <img src="/images/Jon_underwater.jpeg" width="100%">
+</div>
+
 ## Key projects
 
 ### Environmental DNA (eDNA) and biodiversity monitoring
